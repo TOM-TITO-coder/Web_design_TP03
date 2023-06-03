@@ -1,0 +1,146 @@
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.inner_container1{
+    border: 5px solid black;
+    padding: 20px;
+    margin-left: 28px;  
+}
+
+.inner_container1 input{
+    margin: 0px;
+    border: 1px solid rgb(218, 214, 214);
+    padding: 10px;
+    border-radius: 5px;
+    width: 600px;
+}
+
+/* container2 */
+.container2{
+    display: flex;
+    margin-top: 40px;   
+    justify-content: center;
+    align-items: center;
+}
+.inner_container2{
+    border: 5px solid black;
+    padding: 20px;
+    margin-left: 28px;  
+}
+
+.large_size{
+    width: 20px;
+    height: 13px;
+}
+.icon2{
+    border: 1px solid rgb(218, 214, 214);
+    border-radius: 5px;
+    padding: 7px 11px;
+    margin: 10px;
+}
+input{
+    border: none;
+    width: 550px;;
+}
+.medium_size{
+    width: 15px;
+    height: 10px;
+}
+.small_size{
+    width: 10px;
+    height: 7px;
+}
+
+/* container3 */
+.container3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+
+}
+.inner_container3{
+    border: 5px solid black;
+    padding: 20px;
+    margin-left: 28px;  
+    width: 620px;
+}
+.input1{
+    border: 1px solid rgb(218, 214, 214);
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
+    display: block;
+}
+.input2{
+    display: flex;
+}
+.input3{
+    width: 50px;
+    padding: 10px;
+    border-radius: 5px 0px 0px 5px;
+    border: 1px solid rgb(218, 214, 214);
+    margin-top: 10px;
+}
+.input4{
+    width: 550px;
+    padding: 10px;
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid rgb(218, 214, 214);
+    text-emphasis: none;
+    margin-top: 10px;
+}
+.input5{
+    display: flex;
+}
+.input6{
+    width: 50px;
+    padding: 10px;
+    border-radius: 5px 0px 0px 5px;
+    border: 1px solid rgb(218, 214, 214);
+    margin-top: 10px;
+}
+.input7{
+    width: 500px;
+    padding: 10px;
+    border-radius: 0px;
+    border: 1px solid rgb(218, 214, 214);
+    text-emphasis: none;
+    margin-top: 10px;
+}
+.input8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(218, 214, 214);
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 0px 5px 5px 0px;
+}
+.input9{
+    display: flex;
+}
+.input10{
+    width: 550px;
+    padding: 10px;
+    border-radius: 5px 0px 0px 5px;
+    border: 1px solid rgb(218, 214, 214);
+    margin-top: 10px;
+}
+.input11{
+    width: 70px;
+    padding: 10px;
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid rgb(218, 214, 214);
+    margin-top: 10px;
+    background-color: #16f;
+    color: white;
+    text-align: center;
+}
+
+.input11 button:hover{
+    cursor: pointer;
+}
